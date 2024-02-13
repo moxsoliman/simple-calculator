@@ -1,1 +1,1 @@
-this repo contains my projects
+this repo contains my FrontEnd projects
